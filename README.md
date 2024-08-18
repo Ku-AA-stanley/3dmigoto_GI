@@ -36,9 +36,11 @@ handling = skip
 endif
 ```
 
-delete all in original ini and put this
-alt+F11 turn on and off. hided by default
-No not effect stamina bar anymore
+**Instructions:**
+
+1. Delete all content in the original `.ini` file and replace it with the above configuration.
+2. Use `Alt + F11` to toggle the UID on and off. It is hidden by default.
+3. Note: This mod no longer affects the stamina bar.
 
 ## RemoveTransparencyFilter for 4.8
 
